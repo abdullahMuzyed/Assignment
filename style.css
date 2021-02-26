@@ -1,0 +1,36 @@
+body{
+    padding: 30px;
+    margin: 80px; 
+}
+
+
+.login{
+    font-family: sans-serif;
+    width: 510px;
+    height: 450px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 4px 4px 4px 7px rgba(88, 85, 82, 0.281);
+    border-radius: 3px;
+}
+h2{
+    text-align: center;
+    padding-top: 20px ;
+    margin-bottom: 30px;
+}
+form{
+    padding-left: 65px ;
+    padding-bottom:30px ;
+}
+input{
+    width: 320px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+button{
+    background-color: rgb(27, 20, 20);
+    color: white;
+    width: 320px;
+    height:40px ;
+    text-align: center;
+}
